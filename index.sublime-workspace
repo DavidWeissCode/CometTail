@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getC",
+				"getCampaignData"
+			],
+			[
+				"view",
+				"viewedURL"
+			],
+			[
+				"anon",
+				"anonymizeIP"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"get",
+				"getAnonymizedIP"
+			],
+			[
+				"g",
+				"getAnonymizedIP"
+			],
+			[
+				"mission",
+				"mission4Helper"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"translat",
+				"translated_title"
+			],
+			[
+				"getMiss",
+				"getMissionByID"
+			],
+			[
+				"func",
+				"functionsObj"
+			],
+			[
+				"no",
+				"no-top-padding"
+			],
+			[
+				"INFOMODAL_ASS",
+				"INFOMODAL_ASSETCHANGE_LOOSES"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"levelra",
+				"levelrank_translated"
+			],
+			[
+				"predi",
+				"prediction_file"
+			],
+			[
+				"number",
+				"number_of_price_brackets"
+			],
+			[
+				"prediction",
+				"prediction_file_object"
+			],
+			[
+				"test",
+				"test_file_object"
+			],
+			[
+				"surv",
+				"survival_table"
+			],
+			[
+				"sur",
+				"survival_table"
+			],
+			[
+				"fare",
+				"fare_bracket_size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"class",
+				"classification_data"
+			],
+			[
+				"pass",
+				"passenger_count_survived"
+			],
+			[
+				"men",
+				"men_count"
+			],
+			[
+				"woe",
+				"women_count"
+			],
+			[
+				"data",
+				"data_women_survivestatus"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "colorsubl",
+		"selected_items":
+		[
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jsonre",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/Downloads/rclone-v1.38-linux-amd64/README.txt",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/ClassTester.js",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/TestHomepage.html",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/TestArchives.html",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/TrackingService.js",
+		"/home/david/.config/sublime-text-3/Packages/Seti_UI/README.md",
+		"/home/david/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+		"/home/david/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+		"/home/david/Desktop/Inwiseminar/Notizen.txt",
+		"/home/david/Downloads/geocoding",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/EventService.js",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/Schemas/paper-object-schema.json",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/TestArchivesMain.html",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/Schemas/schema_subject.json",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/Schemas/website-object-schema.json",
+		"/home/david/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/Adventure_Time.sublime-theme",
+		"/home/david/.config/sublime-text-3/Packages/User/Theme - Default/Default.sublime-theme",
+		"/home/david/.config/sublime-text-3/Packages/Colorsublime - Themes/Adventure_Time.tmTheme",
+		"/home/david/.config/sublime-text-3/Packages/Seti_UI/Seti_orig.sublime-theme",
+		"/home/david/Desktop/Inwiseminar/seminar-master-2017ss/team1/Schemas/schema_predicate.json",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/GamiService.js",
+		"/home/david/Desktop/parkingDemo.txt",
+		"/media/david/WINDOWSBOOT/Hiwi/xampp/setup_xampp.bat",
+		"/home/david/Desktop/test.py",
+		"/home/david/Desktop/MED/Queries/SQLQuery12_PA_ipccpc_classes_US_20y.sql",
+		"/home/david/Desktop/MED/QTsession/SQLQuery6_PA_patentspercountry.sql",
+		"/home/david/Desktop/MED/QTsession/SQLQuery2_priority_appln.sql",
+		"/home/david/Desktop/Inwiseminar/EventService.js",
+		"/home/david/Desktop/Inwiseminar/TestHomepage.html",
+		"/home/david/Downloads/Blatt2.txt",
+		"/home/david/OneDrive/Studium/VWL-MED/Example Queries/SQLQuery4_Kind.sql",
+		"/home/david/OneDrive/Studium/VWL-MED/Example Queries/SQLQuery2_Count.sql",
+		"/home/david/OneDrive/Studium/VWL-MED/Example Queries/SQLQuery3_Join.sql",
+		"/home/david/OneDrive/Studium/VWL-MED/Example Queries/SQLQuery5_Table_of_Prio_Pat.sql",
+		"/home/david/OneDrive/Studium/VWL-MED/Example Queries/SQLQuery6_No_of_Appln_with_German_Inventor.sql",
+		"/home/david/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/david/nohup.out",
+		"/home/david/Desktop/Inwiseminar/schemas/website-object-schema.json",
+		"/home/david/Desktop/Inwiseminar/schemas/schema_subject.json",
+		"/home/david/Desktop/Inwiseminar/schemas/schema_predicate.json",
+		"/home/david/Desktop/Inwiseminar/schemas/paper-object-schema.json",
+		"/home/david/Desktop/Inwiseminar/schemas/schema_object.json",
+		"/home/david/Downloads/Quantum Technologies Query.txt",
+		"/home/david/Inwiseminar/Notizen.txt",
+		"/home/david/Desktop/Inwiseminar/schema_subject.json",
+		"/home/david/Inwiseminar/schemas_pageView.json",
+		"/home/david/Desktop/Inwiseminar/schema_predicate.json",
+		"/home/david/Desktop/Inwiseminar/schema_object.json",
+		"/home/david/Downloads/onedrive/README.md",
+		"/home/david/Downloads/drive-download-20170524T062517Z-001/schema_subject_vz.json",
+		"/home/david/Downloads/drive-download-20170524T062517Z-001/schema_predicate_vz.json",
+		"/home/david/Downloads/drive-download-20170524T062517Z-001/schema_object_vz.json",
+		"/home/david/Inwiseminar/Notizen",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/lang/locale-en.json",
+		"/home/david/Desktop/Inwiseminar/schemata",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/lang/locale-de.json",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/css/style.css",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/SocketService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/MissionService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/UserService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/MapModalService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/MapService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/StreetInfoService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/tutorial/scripts/TutorialService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/scripts/ProfileController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/StreetInfoController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/avatardesigner/scripts/AvatarDesignerController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/menu/scripts/MenuController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/MapController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/settings/scripts/SettingsController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/tutorial/scripts/TutorialController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/tutorial/views/tutorial.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/menu/views/menu.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_StreetInfoModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_AssetchangeModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_LevelupModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_AchievementModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_MissionModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/settings/views/settings.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/views/userprofile.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/app.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/index.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/views/map_BuildingMenuModal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/views/missionDetail.html",
+		"/usr/local/android-sdk/android-studio/Install-Linux-tar.txt",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/scripts/MissionsController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/platforms/android/assets/www/page/app/gamification/scripts/MissionService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/scripts/MissionService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/ExperimentManager.js",
+		"/home/david/OneDrive/Workspace/KnowledgeDiscovery/houseprices/hpmodel.py",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/avatardesigner/views/avatarDesigner.html",
+		"/home/david/OneDrive/Workspace/KnowledgeDiscovery/README.md",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/views/badge-detail-modal.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/avatardesigner/scripts/avatarDesignerDirective.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/scripts/services/TeamService.js",
+		"/home/david/Downloads/concept_parking_missions_01.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/scripts/AchievementService.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/gamification/scripts/BadgeService.js",
+		"/home/david/OneDrive/Studium/Info-Knowledge Discovery/KD-Challenge/titanic/titanic.py",
+		"/home/david/OneDrive/Studium/Info-Knowledge Discovery/KD-Challenge/tinynn/tinynn.py",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/classes.sorted.txt",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/demo-word-analogy.sh",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/classes.txt",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/train-word-clustering.sh",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/train-word-vector.sh",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/vectors.bin",
+		"/home/david/Downloads/word2vec_linux/word2vec_linux/text8",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/package.json",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/lib/odometer-0.4.6/themes/odometer-theme-plaza.css",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/ModalController.js",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/streets/views/streets.html",
+		"/home/david/OneDrive/Workspace/parking-2.0/app/www/page/app/map/scripts/ModalLevelupController.js",
+		"/home/david/.local/share/applications/sublime_text.desktop",
+		"/usr/share/applications/sublime_text.desktop",
+		"/usr/share/applications/defaults.list",
+		"/home/david/OneDrive/Studium/Info-Knowledge Discovery/KD-Challenge/titanic-tutorial.py",
+		"/home/david/parking/parking-2.0/app/www/page/app/map/scripts/MapController.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doi",
+			"todo",
+			"EventS",
+			"trackingServiceClient",
+			"TrackingServiceCLient",
+			"saveEvent",
+			"scroll",
+			"refURL",
+			"referingURL",
+			"URL",
+			"timestamp",
+			"getPap",
+			"getCampaignID",
+			"getPaperInfo",
+			"campaignID",
+			"//TODO",
+			"TODO",
+			",//TODO",
+			"//TODO",
+			"campaignID",
+			"//TODO",
+			"object",
+			"puck",
+			".png",
+			"puck_control",
+			"todo",
+			"viewedURL",
+			" \"",
+			"\" ",
+			" \"",
+			"\" ",
+			" \"",
+			"\" ",
+			"xmlhttpRequest",
+			"XMLHttpRequest",
+			"xmlhttpRequest",
+			"coins",
+			"tutorialservice",
+			"coins",
+			"tut_streetinfo_active",
+			"tut_map",
+			"tut_locate",
+			"tutorial",
+			"save",
+			"finish",
+			"mission",
+			"tutorial",
+			"showalert",
+			"tutorial",
+			"1",
+			"openAchievementModal",
+			"group",
+			"tutgroup",
+			"tut",
+			"tutorial",
+			"tutgroup",
+			"tutorial",
+			"tutgroup",
+			"tutorial",
+			"tap",
+			"buttonhelper",
+			"titlehelper",
+			"openmissionmodal",
+			"MAPMODAL_OKAY",
+			"missionfinish",
+			"mission_finish",
+			"openachievement",
+			"avatar",
+			"openachieve",
+			"tut_menu_event",
+			"walk",
+			"active",
+			"walk",
+			"active",
+			"true",
+			"active",
+			"finishmission",
+			"active",
+			"mapclick",
+			"tut_streetinfo_active",
+			"mapclick",
+			"openAchievementModal",
+			"finishMission",
+			"finishMission(9=",
+			"finishMission(9",
+			"finishmiss",
+			"missionservice",
+			"missionserver",
+			"showmap",
+			"loaded",
+			"mapcontroller loaded",
+			"showmap",
+			"tutstatus",
+			"finishMission",
+			"\\",
+			"showmap",
+			"missionfinish",
+			"buy",
+			"buyStreet",
+			"designer",
+			"öffne das",
+			"design",
+			"avatar",
+			"tutstatus",
+			"locate",
+			"temp",
+			"setUserGold",
+			"constructor",
+			"building cons",
+			"mission",
+			"tutorial",
+			"account",
+			"parking account",
+			"parking coins",
+			"ParKing coins",
+			"parking coins",
+			"community",
+			"street_info",
+			"tutMenuButton",
+			"mapclickevent",
+			"mission",
+			"tutstatus",
+			"changeGamemode",
+			"openMission",
+			"gamemode",
+			"gameode",
+			"infos",
+			"gamemode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inwis",
+				"~/Desktop/Inwiseminar/seminar-master-2017ss/services/README.rst"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
