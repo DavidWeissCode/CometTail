@@ -33,11 +33,12 @@ class Comet {
 
   show() {
     noStroke()
-    fill(250, 250, 10)
+    fill(250, map(this.y, 400, 600, 150, 0), 10)
     ellipse(this.x, this.y, 40, 40)
 
     this.tail.forEach(function(tailItem, tailIndex) {
-      fill(25*((29-tailIndex)), 25*(29-tailIndex), 5*(29-tailIndex))
+      //fill(25*((29-tailIndex)), 25*(29-tailIndex), 5*(29-tailIndex))
+      fill(250, map(tailItem, 400, 600, 150, 0), 10)
       ellipse(200-(20-tailIndex)*10, tailItem, 2*tailIndex, 2*tailIndex)
     })
 

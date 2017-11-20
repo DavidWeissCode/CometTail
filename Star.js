@@ -2,11 +2,11 @@ class Star {
   constructor() {
     this.x = width
     this.y = Math.random() * 600
-    this.r = Math.random() * 25
+    this.r = 10 + Math.random() * 15
   }
 
   move() {
-    this.x -= 5
+    this.x -= 4 + starVel
   }
 
   show() {

@@ -1,6 +1,7 @@
 let myComet
 let myStars = []
 let gravity = 1
+let starVel = 1
 
 function setup() {
   createCanvas(800, 600)
@@ -27,8 +28,13 @@ function draw() {
     }
   })
 
+  if(Math.round(millis()/1000, 0) % 2 === 0) {
+    starVel += 0.01
+  }
 
   if(myComet.hasCollision()) {
+    textSize(32)
+    text("Score: " + Math.round(millis()/1000, 0), width/2 - 50, height/2)
     noLoop() // end of game
   }
 }
