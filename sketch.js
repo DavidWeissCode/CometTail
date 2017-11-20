@@ -1,4 +1,5 @@
 let myComet
+let myStars = []
 let gravity = 1
 
 function setup() {
@@ -14,6 +15,19 @@ function draw() {
     myComet.fall()
   }
   myComet.show()
+
+  if(Math.random() < 0.1) {
+    myStars.push(new Star())
+  }
+  myStars.forEach(function(myStarsItem, myStarsIndex) {
+    myStarsItem.move()
+    myStarsItem.show()
+    if(myStarsItem.x + myStarsItem.r < 0) {
+      myStars.splice(myStarsIndex, 1)
+    }
+  })
+
+
   if(myComet.hasCollision()) {
     noLoop() // end of game
   }
